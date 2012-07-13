@@ -799,6 +799,10 @@ section #title h1 {
   text-align: center;
   line-height: 36px;
 }
+section #title h1 img {
+  vertical-align: middle;
+  margin-right: 20px;
+}
 section #title p {
   color: #d7cfbe;
   font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
