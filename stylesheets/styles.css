@@ -904,3 +904,12 @@ section #title .credits.right {
     display: none;
   }
 }
+.talks img {
+  width: 70px;
+  height: 70px;
+  border: 3px solid #fff;
+  vertical-align: middle;
+}
+.talks span {
+  margin-left: 20px;
+}
