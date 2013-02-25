@@ -565,6 +565,7 @@ h1 {
 
 h2 {
   font-size: 24px;
+  margin-top: 1.6184em;
 }
 
 h4, h5, h6 {
@@ -753,7 +754,7 @@ dt {
 /*   display: inline-block; */
 /*   text-align: center; */
 /* } */
-/* #header nav li a:hover { */
+/* #header nav l¡a:hover { */
 /*   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #749619), color-stop(100%, #527f0e)); */
 /*   background: -webkit-linear-gradient(#749619, #527f0e); */
 /*   background: -moz-linear-gradient(#749619, #527f0e); */
