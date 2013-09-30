@@ -918,3 +918,16 @@ section #title .credits.right {
 .talks span {
   margin-left: 20px;
 }
+
+a.button {
+  display: block;
+  margin:auto;
+  width: 115px;
+  height: 25px;
+  background: #fff;
+  padding: 15px;
+  text-align: center;
+  border-radius: 5px;
+  color: #000;
+  font-weight: bold;
+}
